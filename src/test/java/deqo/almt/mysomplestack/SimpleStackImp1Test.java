@@ -8,6 +8,7 @@ import static org.junit.Assert.*;
 /**
  *
  * Un commentaire répondant à l'exigence #3
+ * 
  */
 public class SimpleStackImp1Test {
 /*
